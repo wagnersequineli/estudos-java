@@ -8,4 +8,4 @@ Esses arquivos são os exercícios de programação em Java. Sendo que todos ele
 
 ## Resultados
 
-Fiquei bem contentão com os resultados, pois consegui aprender bastante com eles. Pois na prática, é muito mais fácil aprender do que em apenas em teoria.
+Fiquei bem contente com os resultados, pois consegui aprender bastante com eles. Pois na prática, é muito mais fácil aprender do que em apenas em teoria.
